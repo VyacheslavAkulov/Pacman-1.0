@@ -1,0 +1,29 @@
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\MainPlagin\bin\Release\MainPlagin.dll
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\MainPlagin\bin\Release\MainPlagin.pdb
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\MainPlagin\bin\Release\Pacman10.exe
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\MainPlagin\bin\Release\DLL.dll
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\MainPlagin\bin\Release\EntityFramework.dll
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\MainPlagin\bin\Release\Pacman10.pdb
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\MainPlagin\bin\Release\Pacman10.exe.config
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\MainPlagin\bin\Release\DLL.pdb
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\MainPlagin\bin\Release\DLL.dll.config
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\MainPlagin\bin\Release\EntityFramework.xml
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\MainPlagin\obj\Release\MainPlugin.csprojResolveAssemblyReference.cache
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\MainPlagin\obj\Release\MainPlagin.g.resources
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\MainPlagin\obj\Release\MainPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\MainPlagin\obj\Release\MainPlagin.dll
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\MainPlagin\obj\Release\MainPlagin.pdb
+C:\Users\slavi\Music\Pacman-1.0-master\MainPlagin\bin\Release\MainPlagin.dll
+C:\Users\slavi\Music\Pacman-1.0-master\MainPlagin\bin\Release\MainPlagin.pdb
+C:\Users\slavi\Music\Pacman-1.0-master\MainPlagin\bin\Release\Pacman10.exe
+C:\Users\slavi\Music\Pacman-1.0-master\MainPlagin\bin\Release\DLL.dll
+C:\Users\slavi\Music\Pacman-1.0-master\MainPlagin\bin\Release\EntityFramework.dll
+C:\Users\slavi\Music\Pacman-1.0-master\MainPlagin\bin\Release\Pacman10.pdb
+C:\Users\slavi\Music\Pacman-1.0-master\MainPlagin\bin\Release\Pacman10.exe.config
+C:\Users\slavi\Music\Pacman-1.0-master\MainPlagin\bin\Release\DLL.pdb
+C:\Users\slavi\Music\Pacman-1.0-master\MainPlagin\bin\Release\DLL.dll.config
+C:\Users\slavi\Music\Pacman-1.0-master\MainPlagin\bin\Release\EntityFramework.xml
+C:\Users\slavi\Music\Pacman-1.0-master\MainPlagin\obj\Release\MainPlugin.csprojResolveAssemblyReference.cache
+C:\Users\slavi\Music\Pacman-1.0-master\MainPlagin\obj\Release\MainPlagin.g.resources
+C:\Users\slavi\Music\Pacman-1.0-master\MainPlagin\obj\Release\MainPlagin.dll
+C:\Users\slavi\Music\Pacman-1.0-master\MainPlagin\obj\Release\MainPlagin.pdb

@@ -1,0 +1,21 @@
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\DLL\bin\Release\DLL.dll.config
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\DLL\bin\Release\DLL.dll
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\DLL\bin\Release\DLL.pdb
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\DLL\bin\Release\EntityFramework.dll
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\DLL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\DLL\bin\Release\EntityFramework.xml
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\DLL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\DLL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\DLL\obj\Release\DLL.dll
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\DLL\obj\Release\DLL.pdb
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\DLL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\slavi\Music\Pacman-1.0-master\DLL\bin\Release\DLL.dll.config
+C:\Users\slavi\Music\Pacman-1.0-master\DLL\bin\Release\DLL.dll
+C:\Users\slavi\Music\Pacman-1.0-master\DLL\bin\Release\DLL.pdb
+C:\Users\slavi\Music\Pacman-1.0-master\DLL\bin\Release\EntityFramework.dll
+C:\Users\slavi\Music\Pacman-1.0-master\DLL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\slavi\Music\Pacman-1.0-master\DLL\bin\Release\EntityFramework.xml
+C:\Users\slavi\Music\Pacman-1.0-master\DLL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\slavi\Music\Pacman-1.0-master\DLL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\slavi\Music\Pacman-1.0-master\DLL\obj\Release\DLL.dll
+C:\Users\slavi\Music\Pacman-1.0-master\DLL\obj\Release\DLL.pdb

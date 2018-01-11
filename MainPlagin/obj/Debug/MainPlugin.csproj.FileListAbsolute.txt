@@ -1,0 +1,15 @@
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\MainPlagin\bin\Debug\MainPlagin.dll
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\MainPlagin\bin\Debug\MainPlagin.pdb
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\MainPlagin\bin\Debug\Pacman10.exe
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\MainPlagin\bin\Debug\DLL.dll
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\MainPlagin\bin\Debug\EntityFramework.dll
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\MainPlagin\bin\Debug\Pacman10.pdb
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\MainPlagin\bin\Debug\Pacman10.exe.config
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\MainPlagin\bin\Debug\DLL.pdb
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\MainPlagin\bin\Debug\DLL.dll.config
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\MainPlagin\bin\Debug\EntityFramework.xml
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\MainPlagin\obj\Debug\MainPlugin.csprojResolveAssemblyReference.cache
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\MainPlagin\obj\Debug\MainPlagin.g.resources
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\MainPlagin\obj\Debug\MainPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\MainPlagin\obj\Debug\MainPlagin.dll
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\MainPlagin\obj\Debug\MainPlagin.pdb

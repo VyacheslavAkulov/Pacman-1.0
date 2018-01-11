@@ -1,0 +1,52 @@
+﻿<Window x:Class="Pacman10.NewGame"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+         xmlns:e="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+        mc:Ignorable="d"
+        Title="NewGame" Height="418.527" Width="300">
+    <i:Interaction.Triggers>
+        <i:EventTrigger EventName="Loaded">
+            <i:InvokeCommandAction
+                            Command="{Binding Loaded}"
+                 CommandParameter="{Binding ElementName=ListBox}"
+               />
+        </i:EventTrigger>
+        </i:Interaction.Triggers>
+    <Window.Background>
+        <RadialGradientBrush>
+            <GradientStop Color="Black" Offset="1"/>
+            <GradientStop Color="#FF0A0552"/>
+        </RadialGradientBrush>
+    </Window.Background>
+    <Grid>
+        <Label FontSize="15" HorizontalContentAlignment="Left" Content="Ваше имя:" VerticalAlignment="Top" Height="31" Foreground="#FF5AE404" FontWeight="Bold" Background="#FF04021A" Margin="10,10,201.6,0"/>
+        <TextBox Text="{Binding Name}" HorizontalAlignment="Left" Height="31" Margin="97,10,0,0" TextWrapping="Wrap" VerticalContentAlignment="Center"  VerticalAlignment="Top" Width="106" FontSize="16" FontStyle="Italic" FontFamily="SimSun"/>
+        <ListBox Name="ListBox" HorizontalAlignment="Stretch" Grid.Column="0" SelectedItem="{Binding SelectedAsm}" Margin="0,87,-0.4,41.8">
+            <ListBox.Background>
+                <RadialGradientBrush>
+                    <GradientStop Color="#FF0A0552"/>
+                    <GradientStop Color="#FF04021A" Offset="1"/>
+                </RadialGradientBrush>
+            </ListBox.Background>
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Margin="5">
+                        <TextBlock  FontSize="18" Text="{Binding Path=Name, Mode=OneWay}" FontStyle="Italic" FontWeight="Bold" Foreground="#FFEBFF03" />
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <Label FontSize="15" HorizontalAlignment="Center" HorizontalContentAlignment="Left" Content="Выберите игру" VerticalAlignment="Top" Height="31" Foreground="#FF5AE404" FontWeight="Bold" Background="#FF04021A" Margin="0,51,0,0"/>
+        <Button Command="{Binding StartGame}" CommandParameter="MainWindow" Content="Start" HorizontalAlignment="Center" Margin="109,352,109.6,0" VerticalAlignment="Top" Width="75" Height="27" FontSize="16" Foreground="#FF5AE404" FontWeight="Bold">
+            <Button.Background>
+                <RadialGradientBrush>
+                    <GradientStop Color="#FF060000" Offset="1"/>
+                    <GradientStop Color="#FF0A0774" Offset="0.597"/>
+                </RadialGradientBrush>
+            </Button.Background>
+        </Button>
+    </Grid>
+</Window>

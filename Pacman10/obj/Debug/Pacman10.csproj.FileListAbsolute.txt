@@ -1,0 +1,89 @@
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\Pacman10\bin\Debug\Pacman10.exe.config
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\Pacman10\bin\Debug\Pacman10.exe
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\Pacman10\bin\Debug\Pacman10.pdb
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\Pacman10\obj\Debug\App.g.cs
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\Pacman10\obj\Debug\Pacman10_MarkupCompile.cache
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\Pacman10\obj\Debug\Pacman10_MarkupCompile.lref
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\Pacman10\obj\Debug\Pacman10.g.resources
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\Pacman10\obj\Debug\Pacman10.Properties.Resources.resources
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\Pacman10\obj\Debug\Pacman10.csproj.GenerateResource.Cache
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\Pacman10\obj\Debug\Pacman10.csproj.CoreCompileInputs.cache
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\Pacman10\obj\Debug\Pacman10.exe
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\Pacman10\obj\Debug\Pacman10.pdb
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\Pacman10\bin\Debug\EntityFramework.dll
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\Pacman10\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\Pacman10\bin\Debug\EntityFramework.xml
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\Pacman10\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\Pacman10\obj\Debug\Pacman10.csprojResolveAssemblyReference.cache
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\Pacman10\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\Pacman10\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\Pacman10\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\Pacman10\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\Pacman10\bin\Debug\DLL.dll
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\Pacman10\bin\Debug\DLL.pdb
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\Pacman10\bin\Debug\DLL.dll.config
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\Pacman10\obj\Debug\Views\NewGame.baml
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\Pacman10\obj\Debug\Views\MainWindow.baml
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\Pacman10\obj\Debug\Views\NewGame.g.cs
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\Pacman10\obj\Debug\Views\Leaderboard.g.cs
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\Pacman10\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\Pacman10\obj\Debug\Views\Leaderboard.baml
+C:\Users\slavi\Music\Pacman-1.0-master\Pacman10\bin\Debug\Pacman10.exe.config
+C:\Users\slavi\Music\Pacman-1.0-master\Pacman10\bin\Debug\Pacman10.exe
+C:\Users\slavi\Music\Pacman-1.0-master\Pacman10\bin\Debug\Pacman10.pdb
+C:\Users\slavi\Music\Pacman-1.0-master\Pacman10\bin\Debug\DLL.dll
+C:\Users\slavi\Music\Pacman-1.0-master\Pacman10\bin\Debug\EntityFramework.dll
+C:\Users\slavi\Music\Pacman-1.0-master\Pacman10\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\slavi\Music\Pacman-1.0-master\Pacman10\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\slavi\Music\Pacman-1.0-master\Pacman10\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\slavi\Music\Pacman-1.0-master\Pacman10\bin\Debug\DLL.pdb
+C:\Users\slavi\Music\Pacman-1.0-master\Pacman10\bin\Debug\DLL.dll.config
+C:\Users\slavi\Music\Pacman-1.0-master\Pacman10\bin\Debug\EntityFramework.xml
+C:\Users\slavi\Music\Pacman-1.0-master\Pacman10\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\slavi\Music\Pacman-1.0-master\Pacman10\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\slavi\Music\Pacman-1.0-master\Pacman10\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\slavi\Music\Pacman-1.0-master\Pacman10\obj\Debug\Pacman10.csprojResolveAssemblyReference.cache
+C:\Users\slavi\Music\Pacman-1.0-master\Pacman10\obj\Debug\Views\NewGame.baml
+C:\Users\slavi\Music\Pacman-1.0-master\Pacman10\obj\Debug\Views\MainWindow.baml
+C:\Users\slavi\Music\Pacman-1.0-master\Pacman10\obj\Debug\Views\NewGame.g.cs
+C:\Users\slavi\Music\Pacman-1.0-master\Pacman10\obj\Debug\Views\Leaderboard.g.cs
+C:\Users\slavi\Music\Pacman-1.0-master\Pacman10\obj\Debug\Views\MainWindow.g.cs
+C:\Users\slavi\Music\Pacman-1.0-master\Pacman10\obj\Debug\App.g.cs
+C:\Users\slavi\Music\Pacman-1.0-master\Pacman10\obj\Debug\Pacman10_MarkupCompile.cache
+C:\Users\slavi\Music\Pacman-1.0-master\Pacman10\obj\Debug\Pacman10_MarkupCompile.lref
+C:\Users\slavi\Music\Pacman-1.0-master\Pacman10\obj\Debug\Views\Leaderboard.baml
+C:\Users\slavi\Music\Pacman-1.0-master\Pacman10\obj\Debug\Pacman10.g.resources
+C:\Users\slavi\Music\Pacman-1.0-master\Pacman10\obj\Debug\Pacman10.Properties.Resources.resources
+C:\Users\slavi\Music\Pacman-1.0-master\Pacman10\obj\Debug\Pacman10.csproj.GenerateResource.Cache
+C:\Users\slavi\Music\Pacman-1.0-master\Pacman10\obj\Debug\Pacman10.exe
+C:\Users\slavi\Music\Pacman-1.0-master\Pacman10\obj\Debug\Pacman10.pdb
+C:\Users\Viacheslav Akulov\Desktop\Pacman-1.0-master\Pacman10\bin\Debug\Pacman10.exe.config
+C:\Users\Viacheslav Akulov\Desktop\Pacman-1.0-master\Pacman10\bin\Debug\Pacman10.exe
+C:\Users\Viacheslav Akulov\Desktop\Pacman-1.0-master\Pacman10\bin\Debug\Pacman10.pdb
+C:\Users\Viacheslav Akulov\Desktop\Pacman-1.0-master\Pacman10\bin\Debug\DLL.dll
+C:\Users\Viacheslav Akulov\Desktop\Pacman-1.0-master\Pacman10\bin\Debug\EntityFramework.dll
+C:\Users\Viacheslav Akulov\Desktop\Pacman-1.0-master\Pacman10\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Viacheslav Akulov\Desktop\Pacman-1.0-master\Pacman10\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Viacheslav Akulov\Desktop\Pacman-1.0-master\Pacman10\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Viacheslav Akulov\Desktop\Pacman-1.0-master\Pacman10\bin\Debug\DLL.pdb
+C:\Users\Viacheslav Akulov\Desktop\Pacman-1.0-master\Pacman10\bin\Debug\DLL.dll.config
+C:\Users\Viacheslav Akulov\Desktop\Pacman-1.0-master\Pacman10\bin\Debug\EntityFramework.xml
+C:\Users\Viacheslav Akulov\Desktop\Pacman-1.0-master\Pacman10\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Viacheslav Akulov\Desktop\Pacman-1.0-master\Pacman10\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Viacheslav Akulov\Desktop\Pacman-1.0-master\Pacman10\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Viacheslav Akulov\Desktop\Pacman-1.0-master\Pacman10\obj\Debug\Pacman10.csprojResolveAssemblyReference.cache
+C:\Users\Viacheslav Akulov\Desktop\Pacman-1.0-master\Pacman10\obj\Debug\Views\NewGame.baml
+C:\Users\Viacheslav Akulov\Desktop\Pacman-1.0-master\Pacman10\obj\Debug\Views\MainWindow.baml
+C:\Users\Viacheslav Akulov\Desktop\Pacman-1.0-master\Pacman10\obj\Debug\Views\NewGame.g.cs
+C:\Users\Viacheslav Akulov\Desktop\Pacman-1.0-master\Pacman10\obj\Debug\Views\Leaderboard.g.cs
+C:\Users\Viacheslav Akulov\Desktop\Pacman-1.0-master\Pacman10\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Viacheslav Akulov\Desktop\Pacman-1.0-master\Pacman10\obj\Debug\App.g.cs
+C:\Users\Viacheslav Akulov\Desktop\Pacman-1.0-master\Pacman10\obj\Debug\Pacman10_MarkupCompile.cache
+C:\Users\Viacheslav Akulov\Desktop\Pacman-1.0-master\Pacman10\obj\Debug\Pacman10_MarkupCompile.lref
+C:\Users\Viacheslav Akulov\Desktop\Pacman-1.0-master\Pacman10\obj\Debug\Views\Leaderboard.baml
+C:\Users\Viacheslav Akulov\Desktop\Pacman-1.0-master\Pacman10\obj\Debug\Pacman10.g.resources
+C:\Users\Viacheslav Akulov\Desktop\Pacman-1.0-master\Pacman10\obj\Debug\Pacman10.Properties.Resources.resources
+C:\Users\Viacheslav Akulov\Desktop\Pacman-1.0-master\Pacman10\obj\Debug\Pacman10.csproj.GenerateResource.Cache
+C:\Users\Viacheslav Akulov\Desktop\Pacman-1.0-master\Pacman10\obj\Debug\Pacman10.csproj.CoreCompileInputs.cache
+C:\Users\Viacheslav Akulov\Desktop\Pacman-1.0-master\Pacman10\obj\Debug\Pacman10.exe
+C:\Users\Viacheslav Akulov\Desktop\Pacman-1.0-master\Pacman10\obj\Debug\Pacman10.pdb

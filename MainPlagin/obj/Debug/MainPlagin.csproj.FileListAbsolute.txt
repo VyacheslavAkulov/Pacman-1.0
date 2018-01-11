@@ -1,0 +1,7 @@
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\MainPlagin\obj\Debug\MainPlagin.csprojResolveAssemblyReference.cache
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\MainPlagin\obj\Debug\MainPlagin.csproj.CoreCompileInputs.cache
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\MainPlagin\bin\Debug\MainPlagin.dll
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\MainPlagin\bin\Debug\MainPlagin.pdb
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\MainPlagin\obj\Debug\MainPlagin.dll
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\MainPlagin\obj\Debug\MainPlagin.pdb
+C:\Users\Viacheslav Akulov\source\repos\Pacman10\MainPlagin\obj\Debug\MainPlagin.g.resources
